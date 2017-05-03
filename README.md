@@ -1,2 +1,3 @@
 # hello-world
-begin test only
+
+It's the second test!
